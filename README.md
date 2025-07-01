@@ -1,14 +1,12 @@
-<h1 align="center">👨‍💻 Love Coding</h1>
+<h1 align="center">👨‍💻 Om Tambat</h1>
 <p align="center">AI/ML • Apps • Games 🚀</p>
 
 ---
 
 ### 💡 About Me
 
-- 🔭 I'm transitioning from Android to AI/ML development  
 - ⚡ Passionate about building intelligent systems, games, and tools  
-- 📚 Learning Python, ML, and GenAI  
-- 🎯 Goal: Land an AI/ML job or internship in the next 6 months
+- 📚 Learning Python, ML, and GenAI
 
 ---
 
