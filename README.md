@@ -42,4 +42,4 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Onix284&theme=dark" alt="Onix284"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Onix284" alt="Onix284"/></p>
