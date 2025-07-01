@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Om Tambat</h1>
+<h1 align="center">🤖 Om Tambat 👨‍💻</h1>
 <p align="center">AI/ML • Apps • Games 🚀</p>
 
 ---
