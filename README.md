@@ -1,51 +1,49 @@
-<style>
-  .fade-in {
-    animation: fadeIn 1.5s ease-in-out;
-  }
+<h1 align="center">👨‍💻 Love Coding</h1>
+<p align="center">AI/ML • Apps • Games 🚀</p>
 
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(10px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
+---
 
-  .tools img {
-    margin: 5px;
-    transition: transform 0.3s;
-  }
+### 💡 About Me
 
-  .tools img:hover {
-    transform: scale(1.1);
-  }
-</style>
+- 🔭 I'm transitioning from Android to AI/ML development  
+- ⚡ Passionate about building intelligent systems, games, and tools  
+- 📚 Learning Python, ML, and GenAI  
+- 🎯 Goal: Land an AI/ML job or internship in the next 6 months
 
-<h1 class="fade-in">👨‍💻 Love Coding</h1>
-<p class="fade-in">AI/ML • Apps • Games 🚀</p>
+---
 
-<h2 class="fade-in">💡 About Me</h2>
-<p class="fade-in">
-I’m Om Tambat, a passionate software developer diving into the world of AI/ML.  
-With a strong background in Android development, I’m now building intelligent systems and love solving real-world problems with code.  
-I’m constantly learning, experimenting, and building — from apps to agentic AI systems.  
-Let's build the future with code and creativity!  
+### 🚀 Languages and Tools I Use
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" alt="Seaborn" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" alt="OpenCV" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="scikit-learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" alt="Android" />
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" alt="Kotlin" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" alt="Heroku" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" alt="Unity" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
 
-<h2 class="fade-in">🚀 Languages and Tools I Use</h2>
-<p class="tools fade-in">
-  <!-- Add your icons below (already well done) -->
-  <!-- Keep your original code with tool icons here -->
-  <!-- Example: -->
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="python"/></a>
-  <!-- Keep rest unchanged -->
-  <!-- ... your other tools here ... -->
-</p>
+---
 
-<h2 class="fade-in">⚡️ Where to find me</h2>
-<p class="fade-in">
-  <a href="https://www.linkedin.com/in/om-tambat-61439b245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Om%20Tambat-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+### 📫 Where to find me
 
-<p class="fade-in">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Onix284&" alt="GitHub Streak" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Tambat-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-tambat-61439b245/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onix284" alt="GitHub Streak" />
 </p>
