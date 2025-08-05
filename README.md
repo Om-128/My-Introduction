@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 I am a Software Developer and AI ML Enthusiast<br>🧠 Transitioning into AI/ML — focused on real-world ML, DL, GenAI and CV projects  <br>🔬 Skilled in Python, TensorFlow, PyTorch, Scikit-learn, OpenCV  <br>🚀 Building and deploying ML apps with Flask, FastAPI, Docker & AWS  <br>📊 Passionate about data-driven solutions, NLP, and model optimization  
 
 
