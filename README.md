@@ -1,5 +1,5 @@
 # About Me:
-💻 I am a AI Engineer<br>🧠 focused on real-world ML, DL, GenAI and CV projects  <br>🔬 Skilled in Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, LangChain <br>🚀 Building and deploying ML apps with Flask, FastAPI, Docker & AWS  <br>📊 Passionate about data-driven solutions, NLP, and model optimization  
+💻 I am a Artificial Intelligence Engineer<br>🧠 focused on real-world ML, DL, GenAI and CV projects  <br>🔬 Skilled in Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, LangChain <br>🚀 Building and deploying ML apps with Flask, FastAPI, Docker & AWS  <br>📊 Passionate about data-driven solutions, NLP, and model optimization  
 
 
 ## 🌐 Socials:
